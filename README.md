@@ -10,14 +10,13 @@ This repository contains tests for the Login component using Jest.
    git clone <repository-url>
 
 2. Install the dependencies:
-
-[bash]
-# pnpm install
+   ```[bash]
+      pnpm install
 
 ## Running the Tests
 To run the tests, use the following command:
-[bash]
-# pnpm test
+      ```[bash]
+      pnpm install
 
 The test suite will be executed, and you will see the test results in the console.
 If you want to fail a test just change component [Login.jsx] and you can find tests functions in [LoginInputs.text.js]
